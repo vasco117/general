@@ -1,2 +1,2 @@
 # general
-This is a repository for general code files.
+This is a repository for my general code files.
